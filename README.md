@@ -15,6 +15,9 @@ Durante o desafio foram criadas novas variáveis e utilizados diversos Algoritmo
 ![](https://github.com/GabrielTrentino/Competicoes/blob/master/img/1ImoveisSP.png?raw=true)
 [[LINK DA COMPETIÇÃO]](https://www.kaggle.com/argonalyst/sao-paulo-real-estate-sale-rent-april-2019) / [[LINK DO NOTEBOOK]](https://github.com/GabrielTrentino/Competicoes/blob/master/Pre%C3%A7o_imoveis_S%C3%A3o_Paulo.ipynb)
 
-A Análise dos Imóveis em São Paulo foi realizada utilizando um Dataset de Abril de 2019 disponibilizada no Kaggle. Nesse dataset continham imóveis tanto para alugar quanto para venda. Esse projeto foi realizado anteriormente no [curso Data Science na Prática](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/03-DSNP/05_DeployML_imoveis_SaoPaulo.ipynb) com a Finalidade de ensinar **conceitos de Deploy e Flask.**
+A Análise dos Imóveis em São Paulo foi realizada utilizando um Dataset de Abril de 2019 disponibilizada no Kaggle. Nesse dataset continham imóveis tanto para alugar quanto para venda. Esse projeto foi realizado anteriormente no [curso Data Science na Prática](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/03-DSNP/05_DeployML_imoveis_SaoPaulo.ipynb) com a Finalidade de ensinar **conceitos de Deploy e aplicações Web utilizando o Flask.**
 
-No projeto realizado no curso foi utilizado o XGBoost, porém teve problemas de instalação em Maio de 2020 no Pycharm. Com isso foi utilizado uma Regressão Linear Multipla para construir e testar a aplicação web.
+No projeto realizado no curso foi utilizado o XGBoost, porém teve problemas de instalação em Maio de 2020 no Pycharm. Com isso foi utilizado uma Regressão Linear Multipla para construir e testar as aplicações Web do outro Notebook.
+
+## **Dúvidas e Redes Sociais:**
+O repositório aumentará o seu tamanho de acordo com as realizações dos cursos. E claro, aceito recomendações de cursos, livros ou vídeos! Qualquer duvida me chame no [LinkedIn](https://www.linkedin.com/in/gabriel-trentino-froes-415558144/).
